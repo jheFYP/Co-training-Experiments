@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Last Modified on Mon Sep 16 12:46:05 2019
-
-@author: Admin
-
-Pairflip 45
-Symmetric 20, 50
+@inproceedings{han2018coteaching,
+  title={Co-teaching: Robust training of deep neural networks with extremely noisy labels},
+  author={Han, Bo and Yao, Quanming and Yu, Xingrui and Niu, Gang and Xu, Miao and Hu, Weihua and Tsang, Ivor and Sugiyama, Masashi},
+  booktitle={NeurIPS},
+  pages={8535--8545},
+  year={2018}
+}
+Modified by JHe
 """
 
 import os
