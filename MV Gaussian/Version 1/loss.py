@@ -1,8 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep 16 12:45:17 2019
-
-@author: Admin
+@inproceedings{han2018coteaching,
+  title={Co-teaching: Robust training of deep neural networks with extremely noisy labels},
+  author={Han, Bo and Yao, Quanming and Yu, Xingrui and Niu, Gang and Xu, Miao and Hu, Weihua and Tsang, Ivor and Sugiyama, Masashi},
+  booktitle={NeurIPS},
+  pages={8535--8545},
+  year={2018}
+}
+Modified by JHe
 """
 
 import torch 
