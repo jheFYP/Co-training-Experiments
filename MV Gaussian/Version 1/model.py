@@ -1,8 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+@inproceedings{han2018coteaching,
+  title={Co-teaching: Robust training of deep neural networks with extremely noisy labels},
+  author={Han, Bo and Yao, Quanming and Yu, Xingrui and Niu, Gang and Xu, Miao and Hu, Weihua and Tsang, Ivor and Sugiyama, Masashi},
+  booktitle={NeurIPS},
+  pages={8535--8545},
+  year={2018}
+}
 
-This is a temporary script file.
+Modified by JHe
 """
 
 import math
